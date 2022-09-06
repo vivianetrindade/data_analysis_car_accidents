@@ -12,7 +12,7 @@ The reporting department have been collecting data on every accident that is rep
 Published by the department for transport. https://data.gov.uk/dataset/road-accidents-safety-data Contains public sector
  information licensed under the Open Government Licence v3.0.
 
-## Create a report that covers the following:
+## Thereport covers the following:
 
 - What time of day and day of the week do most major incidents happen?
 - Are there any patterns in the time of day/ day of the week when major incidents occur?
